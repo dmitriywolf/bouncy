@@ -1,5 +1,5 @@
 # Bouncy
-- Вёрстка Landing Page: [Bouncy](https://dmitriywolf.github.io/works/bouncy).
+- Вёрстка Landing Page: [Bouncy](https://dmitriywolf.github.io/bouncy/dist/index.html).
 
 
 ## Описание
